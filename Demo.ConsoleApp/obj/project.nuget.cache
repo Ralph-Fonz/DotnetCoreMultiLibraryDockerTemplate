@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nEqExiDOnqMGS/jaB4ryk6F50fDvFqd5+g+jYpjhrvHWaUqvHoILaZhWnurKvlcBuIvXvAmnZptf6AizHx/PDw==",
+  "dgSpecHash": "RaWt8lHX/Njtl1DOuBmIdY28TT7rrgioRwRaICNykJ+00v631fVWtZZC0gh5cQzaiz8OpWEJ24Lf27kb4Y4dzQ==",
   "success": true,
   "projectFilePath": "/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.ConsoleApp/Demo.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ctrl_null/.nuget/packages/mypackage/1.0.0/mypackage.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

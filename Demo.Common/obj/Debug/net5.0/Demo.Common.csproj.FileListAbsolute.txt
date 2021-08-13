@@ -1,0 +1,12 @@
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/bin/Debug/net5.0/Demo.Common.deps.json
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/bin/Debug/net5.0/Demo.Common.dll
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/bin/Debug/net5.0/ref/Demo.Common.dll
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/bin/Debug/net5.0/Demo.Common.pdb
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.csproj.AssemblyReference.cache
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.AssemblyInfoInputs.cache
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.AssemblyInfo.cs
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.dll
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/ref/Demo.Common.dll
+/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/obj/Debug/net5.0/Demo.Common.pdb

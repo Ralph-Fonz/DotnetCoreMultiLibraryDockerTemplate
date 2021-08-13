@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpgDTuY+xugwWO+9vsg8gCA5v5sJZJNzqBm1sv46gUMPt59M51xItnecp/HWMVsaxNjxh6fDmaI77Oi/RzFS4A==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Api/Demo.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/ctrl_null/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ctrl_null/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ctrl_null/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/ctrl_null/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/ctrl_null/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/ctrl_null/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

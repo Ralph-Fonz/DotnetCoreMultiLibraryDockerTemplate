@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "MyPackage/1.0.0": {
+        "type": "package"
+      },
+      "Demo.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Demo.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Demo.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyPackage/1.0.0": {
+      "sha512": "8KkhPbAKzbpXV06Fzgws06FuQ/g/G/fjUEyZXAQF7HwCOR39V2GQQ01ILtOsxjRy7Vioh8wYfcunpAjcRZ9tbw==",
+      "type": "package",
+      "path": "mypackage/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "FusionCharts.dll",
+        "mypackage.1.0.0.nupkg.sha512",
+        "mypackage.nuspec"
+      ]
+    },
+    "Demo.Common/1.0.0": {
+      "type": "project",
+      "path": "../Demo.Common/Demo.Common.csproj",
+      "msbuildProject": "../Demo.Common/Demo.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Demo.Common >= 1.0.0",
+      "MyPackage >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/ctrl_null/.nuget/packages/": {}
@@ -31,7 +66,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/Demo.Common.csproj": {
+              "projectPath": "/mnt/c/Users/Ralph_Work/repos/DotnetCoreMultiLibraryDockerTemplate/Demo.Common/Demo.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -43,6 +82,12 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "MyPackage": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
